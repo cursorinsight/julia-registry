@@ -4,4 +4,5 @@ repo = "https://github.com/cursorinsight/julia-registry"
 description = "A Julia registry for open source Julia packages maintained by Cursor Insight"
 
 [packages]
+2ab4f8df-f17a-47f3-bf94-541b2ac2cddd = { name = "Patterns", path = "P/Patterns" }
 8642fa86-e71c-4b93-8618-293c1d7e5bde = { name = "Dumper", path = "D/Dumper" }
