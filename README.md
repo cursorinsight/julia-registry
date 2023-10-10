@@ -1,2 +1,3 @@
-# julia-registry
+# CursorInsightJuliaRegistry
+
 A Julia registry for open source Julia packages maintained by Cursor Insight

@@ -1,0 +1,6 @@
+name = "CursorInsightJuliaRegistry"
+uuid = "a4f14bf5-5aa7-4a85-8680-b8793edda004"
+repo = "https://github.com/cursorinsight/julia-registry"
+description = "A Julia registry for open source Julia packages maintained by Cursor Insight"
+
+[packages]
