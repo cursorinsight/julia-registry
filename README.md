@@ -12,3 +12,12 @@ julia>] registry add https://github.com/cursorinsight/julia-registry
 Note that the internally used name (`CursorInsightJuliaRegistry`) of the
 registry is different from the last part of the URL (`julia-registry`). This is
 intentional.
+
+## Registered packages
+
+| Package name     | Latest version | URL                                                  |
+|------------------|----------------|------------------------------------------------------|
+| Dumper           | 0.2.4          | https://github.com/cursorinsight/Dumper.jl           |
+| FeatureScreening | 0.24.0         | https://github.com/cursorinsight/FeatureScreening.jl |
+| GridConfigs      | 0.1.0          | https://github.com/cursorinsight/GridConfigs.jl      |
+| Patterns         | 0.3.2          | https://github.com/cursorinsight/Patterns.jl         |
