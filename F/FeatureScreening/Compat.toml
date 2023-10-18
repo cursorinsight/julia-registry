@@ -18,14 +18,23 @@ Dumper = "0.2.1-0.2"
 ["0.22-0"]
 DecisionTree = "0.10-0.12"
 DocOpt = "0.4-0.5"
+
+["0.22-0.24.1"]
 HDF5 = "0.15-0.16"
 
 ["0.23-0.24.0"]
 julia = "1.6.2-1.8"
 
+["0.24.1"]
+MacroTools = "0.5"
+
 ["0.24.1-0"]
 Compat = "4"
 Dumper = "0.2.4-0.3"
-MacroTools = "0.5"
 StatsBase = "0.34"
 julia = "1.6.7-1"
+
+["0.24.2-0"]
+FeatureSets = "0.24"
+Random = "1.6.0-1"
+Reexport = "1"

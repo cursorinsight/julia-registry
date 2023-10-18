@@ -1,4 +1,4 @@
-["0.10-0"]
+["0.10-0.24.1"]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 
 ["0.18.2-0"]
@@ -6,12 +6,14 @@ Dumper = "8642fa86-e71c-4b93-8618-293c1d7e5bde"
 
 ["0.2-0"]
 DecisionTree = "7806a523-6efd-50cb-b5f6-3fa6f1930dbb"
-HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
-Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 
 ["0.2-0.23"]
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+
+["0.2-0.24.1"]
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
 ["0.2-0.9"]
 IterTools = "c8e1da08-722c-5040-9ed9-7db0dc04731e"
@@ -22,13 +24,17 @@ DocOpt = "968ba79b-81e4-546f-ab3a-2eecfa62a9db"
 ["0.21-0"]
 Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
 
-["0.22-0"]
+["0.22-0.24.1"]
 MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 
 ["0.24-0"]
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
-["0.7-0"]
+["0.24.2-0"]
+FeatureSets = "fb452ac3-2a14-4977-9b8b-87165f275d43"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
+["0.7-0.24.1"]
 UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
 
 ["0.7.2-0"]
