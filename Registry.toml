@@ -8,3 +8,4 @@ description = "A Julia registry for open source Julia packages maintained by Cur
 81355843-3c2b-48ff-a0b2-a7573f067e8f = { name = "FeatureScreening", path = "F/FeatureScreening" }
 8642fa86-e71c-4b93-8618-293c1d7e5bde = { name = "Dumper", path = "D/Dumper" }
 a37d3d70-d8e4-491e-97f6-729d3aecb91e = { name = "GridConfigs", path = "G/GridConfigs" }
+fb452ac3-2a14-4977-9b8b-87165f275d43 = { name = "FeatureSets", path = "F/FeatureSets" }
